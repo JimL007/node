@@ -7,6 +7,7 @@
 4. /:根目录
 5. sudo:管理员权限运行
 6. nvm install :安装对应版本的node
+7. source ~/.bash_profile :安装npm
 7. nvm ls :查询当前已安装的node版本列表
 8. nvm alias default :设置默认node版本
 9. nvm use :临时使用版本,仅对当前终端有用
